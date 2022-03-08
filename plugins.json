@@ -1,0 +1,18 @@
+[
+  {
+    "projectUrl":"https://discord.gg/greenbandits",
+    "provider":"NaughtyBach",
+    "name":"Inferno HP Tracking",
+    "description":"Marks Inferno/Fight Cave NPCs and shows their current HP remaining. Based off of plugin made by naabe with minor QOL improvements added.",
+    "id":"infernohptracking-plugin",
+    "releases":[
+      {
+        "date":"2021-12-21",
+        "sha512sum":"C1A452C29B46BD962F451BFBF87DF25AF93A6EA32B26C8892B6CB5F604A19AAE7013F68F65CB46C7550CD9A261C259618DE3D179C263B8F5B4853405CC387674",
+        "version":"1.0.0",
+        "url":"https://github.com/naughtybach/plugins/blob/main/open-releases/infernohptracking-1.0.0.jar?raw=true",
+        "requires":"^1.0.0"
+      }
+    ]
+  }
+]

@@ -7,10 +7,17 @@
     "id":"infernohptracking-plugin",
     "releases":[
       {
-        "date":"2021-12-21",
+        "date":"2021-03-08",
         "sha512sum":"C1A452C29B46BD962F451BFBF87DF25AF93A6EA32B26C8892B6CB5F604A19AAE7013F68F65CB46C7550CD9A261C259618DE3D179C263B8F5B4853405CC387674",
         "version":"1.0.0",
         "url":"https://github.com/naughtybach/plugin/blob/main/open-releases/infernohptracking-1.0.0.jar?raw=true",
+        "requires":"^1.0.0"
+      },
+      {
+        "date":"2021-03-08",
+        "sha512sum":"B6DF13ABEFE71CF377DA9726308A183234CC729744F2BA10BC176564647A276094B1AE9371E3F3931EAA80A2515ACE397A8ADF30A96092CECB784F271F550FAB",
+        "version":"1.0.1",
+        "url":"https://github.com/naughtybach/plugin/blob/main/open-releases/infernohptracking-1.0.1.jar?raw=true",
         "requires":"^1.0.0"
       }
     ]
